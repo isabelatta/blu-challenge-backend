@@ -13,7 +13,7 @@ const addAppointments = async (req, res) => {
             res.status(201).send("Consulta cadastrada com sucesso")
         })
     }
-    else res.status(400).send("Consulta invalida")
+    else res.status(400).send("Consulta inválida")
 }
 
 

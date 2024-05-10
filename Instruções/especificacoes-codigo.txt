@@ -1,0 +1,18 @@
+Código
+
+node.js: v.20.12.2
+
+Dependências 
+
+dotenv: ^16.4.5
+express": ^4.19.2
+pg: ^8.11.5
+nodemon: ^3.1.0
+
+Banco de dados
+
+Postgres: 15.4
+
+Para rodar o código com nodemon: npm run devStart
+
+Script para criar o Banco de Dados: bd-script.txt
